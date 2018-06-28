@@ -1,0 +1,45 @@
+body {
+    padding: 40px;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    
+}
+
+#background {
+    background-color: burlywood;
+}
+
+#trains {
+    width: 1100px;
+    text-align: center;
+    margin-left: 175px;
+
+}
+
+#forms {
+    width: 900px;
+    margin-left: 270px;
+    font-size: 14px;
+
+}
+
+#head {
+    font-weight: bold;
+}
+
+#submit {
+    margin-left: 270px;
+    background-color: burlywood;
+    border: none;
+}
+
+#line {
+    background-color: burlywood;
+}
+
+#formhead {
+    font-weight: bold;
+}
